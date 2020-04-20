@@ -1,0 +1,12 @@
+C:\Users\Dj_Co\source\repos\Экзамен\Экзамен\bin\Debug\stock.mdf
+C:\Users\Dj_Co\source\repos\Экзамен\Экзамен\bin\Debug\stock_log.ldf
+C:\Users\Dj_Co\source\repos\Экзамен\Экзамен\bin\Debug\Экзамен.exe.config
+C:\Users\Dj_Co\source\repos\Экзамен\Экзамен\bin\Debug\Экзамен.exe
+C:\Users\Dj_Co\source\repos\Экзамен\Экзамен\bin\Debug\Экзамен.pdb
+C:\Users\Dj_Co\source\repos\Экзамен\Экзамен\obj\Debug\Экзамен.csprojAssemblyReference.cache
+C:\Users\Dj_Co\source\repos\Экзамен\Экзамен\obj\Debug\Экзамен.Form1.resources
+C:\Users\Dj_Co\source\repos\Экзамен\Экзамен\obj\Debug\Экзамен.Properties.Resources.resources
+C:\Users\Dj_Co\source\repos\Экзамен\Экзамен\obj\Debug\Экзамен.csproj.GenerateResource.cache
+C:\Users\Dj_Co\source\repos\Экзамен\Экзамен\obj\Debug\Экзамен.csproj.CoreCompileInputs.cache
+C:\Users\Dj_Co\source\repos\Экзамен\Экзамен\obj\Debug\Экзамен.exe
+C:\Users\Dj_Co\source\repos\Экзамен\Экзамен\obj\Debug\Экзамен.pdb
